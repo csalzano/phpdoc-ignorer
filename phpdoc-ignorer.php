@@ -4,7 +4,7 @@ defined( 'ABSPATH' ) or exit;
 /**
  * Plugin Name: WP Parser - Vendor Folder Ignorer
  * Description: An add-on for phpdoc-parser that ignores the /vendor folder when parsing a plugin for docs.
- * Plugin URI: https://github.com/csalzano/phpdoc-deleter
+ * Plugin URI: https://github.com/csalzano/phpdoc-ignorer
  * Author: Corey Salzano
  * Author URI: https://breakfastco.xyz
  * Version: 1.0.0
